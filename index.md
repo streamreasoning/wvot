@@ -64,6 +64,9 @@ opinions linked to the above areas, among which:
 
 ## Submission Guidelines
 
+We accept contributions as either short papers (3-5 pages) or long papers
+(6-10 pages). Both are intended references included.
+
 The proceedings of the WVoT workshop will be published jointly with the
 proceedings of TheWebConf. Workshop papers should be no more than 10 pages in
 length. Papers must be submitted in PDF according to the ACM format published
@@ -80,13 +83,13 @@ _To be announced on February 14th._
 
 ### Workshop Chairs
 
- - Payam Barnaghi
- - Albert Bifet
- - Victor Charpenay
- - Daniele Dell'Aglio
- - Emanuele Della Valle
- - Ali Intizar
- - Lionel Medini
- - Ricardo Tommasini
+ - Muhammad Intizar Ali, National University of Ireland, Galway
+ - Payam Barnaghi, University of Surrey, United Kingdom
+ - Albert Bifet, Télécom ParisTech, France
+ - Victor Charpenay, Siemens AG, Germany
+ - Daniele Dell’Aglio, University of Zurich, Switzerland
+ - Emanuele Della Valle, Politecnico di Milano, Italy
+ - Lionel Medini, Université de Lyon, France
+ - Riccardo Tommasini, Politecnico di Milano, Italy
 
 _Further details will be given shortly before the date of the workshop._
