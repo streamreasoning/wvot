@@ -2,23 +2,60 @@ This is the website of the Workshop around emerging trends on Web Velocity and
 the Web of Things (WVoT), to be held in May 2019 in San Francisco during
 [TheWebConf 2019](https://www2019.thewebconf.org/).
 
-More and more Web applications need to process data streams and/or interact
-with the physical world. They perform various types of tasks among which ensure
-interoperability, security and trust with physical appliances, discover device
-capabilities, tame velocity by continuously processing data streams, and react
-upon events. Along with results from the related scientific communities, such
-as machine learning, complex event processing, and knowledge representation,
-ongoing standardization processes have started to foster good practices in
-these domains: RDF Stream Processing or the Web of Things (WoT). The WVoT
-workshop seeks research as well as industrial productions related to one or
-several of these three global areas: Data Streams on the Web, Web Velocity and
-[W3C WoT Standards](https://www.w3.org/WoT/WG/).
-
 ## Call for Papers
+
+Nowadays, more and more applications on the Web involve data streams and/or
+interactions with the physical world. As such, they need to deal with various
+types of tasks and related problems, among which ensuring interoperability,
+security and trust with physical appliances, discovering device capabilities,
+handling data flow velocity, and analysing and processing sensor streams.
+Several attempts to solve these problems have emerged from different points of
+view, such as machine learning, complex event processing, and semantic modeling
+and reasoning. Along with results from the scientific community, ongoing
+standardisation processes have started to foster good practices in these
+domains, about for instance
+[RDF Stream Processing](https://www.w3.org/community/rsp/) or the
+[Web of Things](https://www.w3.org/WoT/WG/) (WoT).
+
+This workshop aims to coalesce contributions on these topics. We seek research
+as well as industrial productions related to one or both of these global areas:
+Web Velocity and W3C WoT Standards, as explained below.
+
+### Web Velocity
 
 TODO
 
-Important dates:
+### W3C Web of Things Standards
+
+TODO
+
+### Topics and Themes
+
+In this workshop, we seek existing papers, research advances and motivated
+opinions linked to the above areas, among which:
+
+ - Time-series data analysis and change/pattern detection for the Web
+ - Integration of WoT with social Web streams 
+ - Machine learning and adaptive algorithms for analysing cyber-physical data on the Web
+ - Real-time communication and interaction with IoT devices using Web technologies
+ - Connecting physical objects & things to the Web
+ - Building Web applications and mashups of  physical objects
+ - Semantic interoperability and novel solutions for data integration, publication and subscription 
+ - Crawling, search and discovery for Web of Things  
+ - Publishing and analysing spatio-temporal data on the Web
+ - Applications and Proof of concepts in healthcare, smart cities, industry
+ - Tracking provenance in the Web of Things
+ - Data compression algorithms for data stream exchange over the Web
+ - Real world data/event discovery from data streams
+ - Distributed processing solutions for the Web of Things
+ - Modelling and knowledge representation for WoT
+ - Approximation approaches to process WoT data
+ - Handling incomplete and noisy WoT data 
+ - Security, privacy and trust issues and solutions in the Web of Things 
+ - Implementation and evaluation experiences
+ - Reference datasets and proposals for benchmarks
+
+## Important dates
 
 | *January 10th* | Submission deadline |
 | *February 14th* | Acceptance notification |
