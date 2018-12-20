@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+This is the website of the Workshop around emerging trends on Web Velocity and
+the Web of Things (WVoT), to be held in May 2019 in San Francisco during
+[TheWebConf 2019](https://www2019.thewebconf.org/).
 
-You can use the [editor on GitHub](https://github.com/streamreasoning/wvot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+More and more Web applications need to process data streams and/or interact
+with the physical world. They perform various types of tasks among which ensure
+interoperability, security and trust with physical appliances, discover device
+capabilities, tame velocity by continuously processing data streams, and react
+upon events. Along with results from the related scientific communities, such
+as machine learning, complex event processing, and knowledge representation,
+ongoing standardization processes have started to foster good practices in
+these domains: RDF Stream Processing or the Web of Things (WoT). The WVoT
+workshop seeks research as well as industrial productions related to one or
+several of these three global areas: Data Streams on the Web, Web Velocity and
+[W3C WoT Standards](https://www.w3.org/WoT/WG/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Call for Papers
 
-### Markdown
+TODO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Important dates:
 
-```markdown
-Syntax highlighted code block
+| *January 10th* | Submission deadline |
+| *February 14th* | Acceptance notification |
+| *March 3rd* | Camera-ready version due |
+| *May 13th* or *May 14th* | Workshop date |
 
-# Header 1
-## Header 2
-### Header 3
+## Submission Guidelines
 
-- Bulleted
-- List
+The proceedings of the WVoT workshop will be published jointly with the
+proceedings of TheWebConf. Workshop papers should be no more than 10 pages in
+length. Papers must be submitted in PDF according to the ACM format published
+in [the ACM guidelines](www.acm.org/publications/proceedings-template),
+selecting the generic `sigconf` sample. The PDF files must have all
+non-standard fonts embedded. Workshop papers must be self-contained and in
+English.
 
-1. Numbered
-2. List
+## Accepted Papers
 
-**Bold** and _Italic_ and `Code` text
+_To be announced on February 14th._
 
-[Link](url) and ![Image](src)
-```
+## Contact & Details
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Workshop Chairs
 
-### Jekyll Themes
+ - Payam Barnaghi
+ - Albert Bifet
+ - Victor Charpenay
+ - Daniele Dell'Aglio
+ - Emanuele Della Valle
+ - Ali Intizar
+ - Lionel Medini
+ - Ricardo Tommasini
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/streamreasoning/wvot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Further details will be given shortly before the date of the workshop._
