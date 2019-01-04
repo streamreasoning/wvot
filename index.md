@@ -83,7 +83,7 @@ Topics of interest include, but are not limited to:
 
 ## Important dates
 
-| *January 10th* | Submission deadline |
+| *January 20th* | Submission deadline |
 | *February 14th* | Acceptance notification |
 | *March 3rd* | Camera-ready version due |
 | *May 13th* or *May 14th* | Workshop date |
@@ -100,6 +100,8 @@ in [the ACM guidelines](www.acm.org/publications/proceedings-template),
 selecting the generic `sigconf` sample. The PDF files must have all
 non-standard fonts embedded. Workshop papers must be self-contained and in
 English.
+
+Contributions should be submitted in EasyChair: [https://easychair.org/conferences/?conf=wvot2019](https://easychair.org/conferences/?conf=wvot2019)
 
 ## Accepted Papers
 
