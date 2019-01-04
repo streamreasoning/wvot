@@ -45,41 +45,41 @@ Topics of interest include, but are not limited to:
 
 - Publishing streams, events, and spatio-temporal data on the Web
    - Real world data/event discovery from data streams
- - - Stream/events provenance
- - - Operational Semantics of stream processors and Complex Event processors
- - - Data compression algorithms for data stream exchange over the Web
- - - Linked Data Dynamics and  Versioning 
- - - Web APIs for data streams and events exchange
- - - Validation of streaming data/events
- - - Logs Streams, Metrics and Traces
+   - Stream/events provenance
+   - Operational Semantics of stream processors and Complex Event processors
+   - Data compression algorithms for data stream exchange over the Web
+   - Linked Data Dynamics and  Versioning 
+   - Web APIs for data streams and events exchange
+   - Validation of streaming data/events
+   - Logs Streams, Metrics and Traces
 
 - Inductive Stream and Event Processing 
-- - Machine Learning for Data Streams
-- - Bayesian networks from Data Streams
-- - Feature Selection from Data Streams
-- - Scalable/ Incremental online Learning Algorithms
-- - Temporal, spatial, and spatio-temporal data mining
-- - Approximation approaches to processing Web Data Streams
-- - Handling incomplete and noisy Web data streams
+  - Machine Learning for Data Streams
+  - Bayesian networks from Data Streams
+  - Feature Selection from Data Streams
+  - Scalable/ Incremental online Learning Algorithms
+  - Temporal, spatial, and spatio-temporal data mining
+  - Approximation approaches to processing Web Data Streams
+  - Handling incomplete and noisy Web data streams
 
 - Deductive Stream and Event Processing
-- - Ontological query answering over data streams in the Web
-- - Ontology-Based Streaming Data Access
-- - Ontology-Based Event Processing
-- - Incremental maintenance of materialization of data streams
-- - Stream composition
+  - Ontological query answering over data streams in the Web
+  - Ontology-Based Streaming Data Access
+  - Ontology-Based Event Processing
+  - Incremental maintenance of materialization of data streams
+  - Stream composition
 
 - Data Integration for Stream and Events
-- - Integration of Stream processors and Complex Event Processors
-- - Federations of Stream processors and Complex Event Processors
-- - Topologies for distributed processing of Web data streams
+  - Integration of Stream processors and Complex Event Processors
+  - Federations of Stream processors and Complex Event Processors
+  - Topologies for distributed processing of Web data streams
 
 - Applications, Proof of concepts, and benchmarks for Web Streams and Event 
-- - Question Answering over streams/event (Ephemeral QA)
-- - Security, privacy and trust issues and solutions in the Web of Things
-- - Applications in healthcare, smart cities, industry
-- - Implementation and evaluation experiences
-- - Reference datastreams and proposals for benchmarks
+  - Question Answering over streams/event (Ephemeral QA)
+  - Security, privacy and trust issues and solutions in the Web of Things
+  - Applications in healthcare, smart cities, industry
+  - Implementation and evaluation experiences
+  - Reference datastreams and proposals for benchmarks
 
 ## Important dates
 
