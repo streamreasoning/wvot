@@ -83,7 +83,7 @@ Topics of interest include, but are not limited to:
 
 ## Important dates
 
-| *January 20th* | Submission deadline |
+| *February 3rd* | Submission deadline |
 | *February 14th* | Acceptance notification |
 | *March 3rd* | Camera-ready version due |
 | *May 13th* or *May 14th* | Workshop date |
