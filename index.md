@@ -44,7 +44,7 @@ Topics of interest include, but are not limited to:
 ### Web Velocity: Web Streams and Events
 
 - Publishing streams, events, and spatio-temporal data on the Web
- - - Real world data/event discovery from data streams
+   - Real world data/event discovery from data streams
  - - Stream/events provenance
  - - Operational Semantics of stream processors and Complex Event processors
  - - Data compression algorithms for data stream exchange over the Web
