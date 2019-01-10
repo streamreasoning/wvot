@@ -56,18 +56,19 @@ devices deployed as physical objects.
 
 ### W3C WoT Standards
 
-The reference peer-reviewed paper on WoT was published ten years ago, at WWW
-2009. The W3C WoT community, supported by official standards, significantly
-extended its vision as a set of Web APIs for physical mashups, by building up
-on Linked Data principles to define a model for WoT Things, by allowing Web
-agents to communicate using arbitrary IoT protocols (like CoAP or MQTT) and by
-defining a programmatic interface to classical Web API interactions. The W3C
-will release WoT standards shortly after TheWebConf 2019. The result of
-combining all these aspects opens new perspectives in domains of research that
-had not been directly related to WoT so far. We aim to survey scientific and
-industrial contributions that relate to WoT standards from the last ten years,
-as well as to identify questions unsolved by current standards and initiate
-discussions about these questions with the relevant communities.
+The reference peer-reviewed paper on WoT was published ten years ago, at a
+WWW workshop. The W3C WoT community, supported by official standards,
+significantly extended the original vision of a set of Web APIs for physical
+mashups on three dimensions: by building up on Linked Data principles to
+define a model for WoT Things, by allowing Web agents to communicate using
+arbitrary IoT protocols (like CoAP or MQTT) and by defining a programmatic
+interface to classical Web API interactions. The W3C will release WoT
+standards shortly after TheWebConf 2019. The result of combining all these
+aspects opens new perspectives in domains of research that had not been
+directly related to WoT so far. We aim to survey scientific and industrial
+contributions that relate to WoT standards from the last ten years, as well as
+to identify questions unsolved by current standards and initiate discussions
+about these questions with the relevant communities.
 
 ## Topics and themes
 
