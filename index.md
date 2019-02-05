@@ -101,7 +101,7 @@ opinions linked to the above areas, among which:
 
 ## Important dates
 
-| *February 3rd* | Submission deadline |
+| *February 10th* | Submission deadline |
 | *February 14th* | Acceptance notification |
 | *March 3rd* | Camera-ready version due |
 | *May 13th* or *May 14th* | Workshop date |
